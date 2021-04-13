@@ -188,7 +188,9 @@ A Tracker is an object implementing the **JETracker** protocol and is loaded usi
 * [ ] ~~JEGoogleAnalyticsTraker~~ (not yet implemented, Google's pods can't be used as a dependency in a pod)
 * [ ] ~~JETrakerFirebase~~ (not yet implemented, Google's pods can't be used as a dependency in a pod)
 
+## Upgrading to v4.0
 
+As of version 4.0 all Objective C prefixes have been removed from the codebase. This will introduce breaking changes to projects that adopt Objective C. 
 
 
 ## Upgrading to v3.0
